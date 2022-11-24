@@ -10,9 +10,9 @@ authors = ["Wouter Coppens <wouter.coppens@gmail.com>"]
 maintainers = ["Wouter Coppens <wouter.coppens@gmail.com>"]
 license = "AGPLv3"
 readme = "README.md"
-homepage = "https://github.com/openmotics/pyhaopenmotics"
-repository = "https://github.com/openmotics/pyhaopenmotics"
-documentation = "https://github.com/openmotics/pyhaopenmotics"
+homepage = "https://github.com/tpires/pyhaopenmotics"
+repository = "https://github.com/tpires/pyhaopenmotics"
+documentation = "https://github.com/tpires/pyhaopenmotics"
 keywords = ["openmotics", "api", "async", "client", "homeassistant"]
 classifiers = [
   "Development Status :: 4 - Beta",
